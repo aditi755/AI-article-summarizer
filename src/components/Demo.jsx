@@ -201,7 +201,7 @@ const Demo = () => {
 
         {/* Browse History */}
         <div className='flex flex-col gap-1 max-h-60 overflow-y-auto'>
-          {allArticles.reverse().map((item, index) => (
+          {allArticles.reverse().map((item, index) => (  //reverse ensure recent article comes at top in ui
             <div
               key={`link-${index}`}
               onClick={() => setArticle(item)}
