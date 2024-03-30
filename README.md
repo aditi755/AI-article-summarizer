@@ -1,8 +1,14 @@
-# React + Vite
+# AI Article Summarizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+The AI Article Summarizer is a web application built to streamline lengthy articles into concise summaries, improving productivity and efficiency. It utilizes React, Tailwind CSS, and the OpenAI API to achieve this functionality.
 
-Currently, two official plugins are available:
+## Features
+- Summarize Lengthy Articles: Condense lengthy articles into concise summaries for quick understanding.
+- Streamlined Interface: User-friendly interface designed for easy navigation and usage.
+- Customizable Settings: Allow users to adjust settings for personalized summarization preferences.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React.js: JavaScript library for building user interfaces.
+- Tailwind CSS: Utility-first CSS framework for styling.
+- OpenAI API: API for accessing artificial intelligence models for various tasks.
