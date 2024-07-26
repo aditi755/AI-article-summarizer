@@ -1,7 +1,7 @@
 # AI Article Summarizer
 
 ## Overview
-The AI Article Summarizer is a web application built to streamline lengthy articles into concise summaries, improving productivity and efficiency. It utilizes React, Tailwind CSS, and the OpenAI API to achieve this functionality.
+The AI Article Summarizer is a web application built to streamline lengthy articles into concise summaries, improving productivity and efficiency. It utilizes React, redux-toolkit, Tailwind CSS, and the OpenAI API to achieve this functionality.
 
 Here is the deployed project: https://ai-article-summarizer-blush.vercel.app/
 ## Features
